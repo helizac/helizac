@@ -1,5 +1,4 @@
 ### Hi there 👋, i'm Furkan Erdi
-![profile-photo](https://user-images.githubusercontent.com/54884571/143771023-e5e94fdc-f6b4-4d9d-b36b-df263e13e179.png)
 
 I am an industrial and computer engineering student at Galatasaray University. At the same time i am president at Google DSC Galatasaray. Interested in Python Web Development and Cloud.
 
