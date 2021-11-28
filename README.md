@@ -7,10 +7,13 @@ Skills: Python / C# / JS / HTML / CSS
 - 🔭 I’m currently working on Google DSC Galatasaray 
 
 
-[LinkedIn](https://www.linkedin.com/in/furkanerdi/)\n
+[LinkedIn](https://www.linkedin.com/in/furkanerdi/)
+<br>
 [Twitter](https://twitter.com/erdthebard)
+<br>
 [GDSC GSU YouTube](https://www.youtube.com/channel/gdscgalatasaray)
+<br>
 [GDSC GSU Website](https://www.gdscgalatasaray.com)  
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)](https://github.com/anuraghazra/github-readme-stats)
