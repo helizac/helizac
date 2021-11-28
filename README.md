@@ -4,7 +4,7 @@ I am an industrial and computer engineering student at Galatasaray University. A
 
 Skills: Python / C# / JS / HTML / CSS
 
-- 🔭 I’m currently working on Google DSC Galatasaray 
+- 🔭 I’m currently working on Google DSC Galatasaray University
 
 
 [LinkedIn](https://www.linkedin.com/in/furkanerdi/)
