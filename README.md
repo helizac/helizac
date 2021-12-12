@@ -15,3 +15,4 @@ Skills: Python / C# / JS / HTML / CSS
 <div class="inactiveLink">
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
 </div>
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
