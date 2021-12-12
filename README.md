@@ -13,11 +13,12 @@ Skills: Python / C# / JS / HTML / CSS
 <br>
 
 
-
-<div class="inactiveLink">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
-</div>
-.inactiveLink {
-   pointer-events: none;
-   cursor: default;
-}
+```html
+   <div class="inactiveLink">
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
+   </div>
+   .inactiveLink {
+      pointer-events: none;
+      cursor: default;
+   }
+```
