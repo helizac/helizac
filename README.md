@@ -14,6 +14,10 @@ Skills: Python / C# / JS / HTML / CSS
 
 
 
-<a onclick="return false">
+<div class="inactiveLink">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
-</a>
+</div>
+.inactiveLink {
+   pointer-events: none;
+   cursor: default;
+}
