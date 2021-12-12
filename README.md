@@ -12,7 +12,4 @@ Skills: Python / C# / JS / HTML / CSS
 [Twitter](https://twitter.com/erdthebard)
 <br>
 
-<div class="inactiveLink">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
-</div>
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
