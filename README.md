@@ -12,15 +12,6 @@ Skills: Python / C# / JS / HTML / CSS
 [Twitter](https://twitter.com/erdthebard)
 <br>
 
-
-```html
-   <pre>
-      <div class="inactiveLink">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
-      </div>
-      .inactiveLink {
-         pointer-events: none;
-         cursor: default;
-      }
-   </pre>
-```
+<div class="inactiveLink">
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
+</div>
