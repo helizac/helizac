@@ -1,6 +1,6 @@
 ### Hi there, i'm Furkan Erdi
 
-I am an industrial and computer engineering student at Galatasaray University. At the same time i am president at Google DSC Galatasaray which is non-profit educational organization for 2021-2022. Interested in Python Web Development and Cloud.
+I am an industrial and computer engineering student at Galatasaray University. At the same time i am president at Google DSC Galatasaray which is non-profit educational organization for 2021-2022. Interested in Python, Data Science, Web Development and Cloud.
 
 Skills: Python / C# / JS / HTML / CSS
 
