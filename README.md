@@ -13,3 +13,4 @@ Skills: Python / C# / JS / HTML / CSS
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact)
