@@ -4,7 +4,7 @@ I am an industrial and computer engineering student at Galatasaray University. A
 
 Skills: Python / C# / JS / HTML / CSS
 
-- 🔭 Currently Lead at Google DSC Galatasaray
+- Lead at Google DSC Galatasaray ( Aug 21 - Now )
 
 <br>
 
