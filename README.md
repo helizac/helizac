@@ -8,7 +8,7 @@ Skills: Python / C# / JS / HTML / CSS
 
 <br>
 
-<div align="center">
+<div align="justify">
   <a href="https://www.linkedin.com/in/furkanerdi/">
     <img src="https://user-images.githubusercontent.com/54884571/148623846-e4be82b7-0e70-49d0-8fee-e704228b2dcd.png" height="40"/>
   </a>
