@@ -12,11 +12,11 @@ Skills: Python / C# / JS / HTML / CSS
 [Twitter](https://twitter.com/erdthebard)
 <br>
 
-![Top Langs]()
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms"/>
-</a>
+<div>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" />
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms"/>
+  </a>
+</div>
