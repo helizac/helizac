@@ -6,14 +6,6 @@ Skills: Python / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on Google DSC Galatasaray University
 
-
-[LinkedIn](https://www.linkedin.com/in/furkanerdi/)
-<br>
-[Twitter](https://twitter.com/erdthebard)
-<br>
-
-![image]()
-
 <div align="center">
   <a href="https://www.linkedin.com/in/furkanerdi/">
     <img src="https://user-images.githubusercontent.com/54884571/148623615-48f6ea78-afa5-439d-aa88-cecfa5982132.png" height="40"/>
@@ -22,6 +14,8 @@ Skills: Python / C# / JS / HTML / CSS
     <img src="https://user-images.githubusercontent.com/54884571/148623677-41599897-6bff-4283-b3e3-b120ad3683d2.png" height="40"/>
   </a>
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/helizac">
