@@ -6,6 +6,8 @@ Skills: Python / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on Google DSC Galatasaray University
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/furkanerdi/">
     <img src="https://user-images.githubusercontent.com/54884571/148623846-e4be82b7-0e70-49d0-8fee-e704228b2dcd.png" height="40"/>
@@ -15,6 +17,7 @@ Skills: Python / C# / JS / HTML / CSS
   </a>
 </div>
 
+<br>
 <br>
 
 <div align="center">
