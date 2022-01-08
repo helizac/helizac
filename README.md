@@ -14,9 +14,9 @@ Skills: Python / C# / JS / HTML / CSS
 
 <div>
   <a href="https://github.com/helizac">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120" left="0"/>
   </a>
   <a href="https://github.com/helizac/Classic-Cipher-Algorithms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms&layout=compact&theme=dark" height="120"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms&layout=compact&theme=dark" height="120" right="0"/>
   </a>
 </div>
