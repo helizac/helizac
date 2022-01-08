@@ -12,11 +12,22 @@ Skills: Python / C# / JS / HTML / CSS
 [Twitter](https://twitter.com/erdthebard)
 <br>
 
+![image]()
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/furkanerdi/">
+    <img src="https://user-images.githubusercontent.com/54884571/148623615-48f6ea78-afa5-439d-aa88-cecfa5982132.png" height="40"/>
+  </a>
+  <a href="https://twitter.com/erdthebard">
+    <img src="https://user-images.githubusercontent.com/54884571/148623677-41599897-6bff-4283-b3e3-b120ad3683d2.png" height="40"/>
+  </a>
+</div>
+
 <div>
   <a href="https://github.com/helizac">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120" left="0"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120" left="0"/>
   </a>
   <a href="https://github.com/helizac/Classic-Cipher-Algorithms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms&layout=compact&theme=dark" height="120" right="0"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms&layout=compact&theme=dark" height="120" right="0"/>
   </a>
 </div>
