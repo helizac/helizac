@@ -8,7 +8,7 @@ Skills: Python / C# / JS / HTML / CSS
 
 <div align="center">
   <a href="https://www.linkedin.com/in/furkanerdi/">
-    <img src="https://user-images.githubusercontent.com/54884571/148623615-48f6ea78-afa5-439d-aa88-cecfa5982132.png" height="40"/>
+    <img src="https://user-images.githubusercontent.com/54884571/148623846-e4be82b7-0e70-49d0-8fee-e704228b2dcd.png" height="40"/>
   </a>
   <a href="https://twitter.com/erdthebard">
     <img src="https://user-images.githubusercontent.com/54884571/148623677-41599897-6bff-4283-b3e3-b120ad3683d2.png" height="40"/>
