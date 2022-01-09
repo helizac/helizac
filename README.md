@@ -4,7 +4,7 @@
 
 I am an industrial and computer engineering student at Galatasaray University. At the same time i am president at Google DSC Galatasaray which is non-profit educational organization for 2021-2022.
 
-You can access my resume from <a href="">here</a>
+You can access my resume from <a href="https://github.com/helizac/helizac/blob/main/Furkan_Erdi_Resume.pdf">here</a>
 
 <br>
 
