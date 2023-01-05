@@ -14,11 +14,11 @@ I am an industrial and computer engineering student at Galatasaray University. A
     <img src="https://user-images.githubusercontent.com/54884571/148623677-41599897-6bff-4283-b3e3-b120ad3683d2.png" height="40"/>
   </a>
 </div>
-
-<br>
-<br>
-
 <!--
+<br>
+<br>
+
+
 <div align="center">
   <a href="https://github.com/helizac">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120"/>
