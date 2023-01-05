@@ -18,6 +18,7 @@ I am an industrial and computer engineering student at Galatasaray University. A
 <br>
 <br>
 
+<!--
 <div align="center">
   <a href="https://github.com/helizac">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helizac&layout=compact&theme=dark" height="120"/>
@@ -26,3 +27,4 @@ I am an industrial and computer engineering student at Galatasaray University. A
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=helizac&repo=Classic-Cipher-Algorithms&layout=compact&theme=dark" height="120"/>
   </a>
 </div>
+-->
