@@ -1,5 +1,3 @@
 ## Hi there, i'm Furkan Erdi
 
-### Interested in Python, Data Science, Web Development and Cloud.
-
-I am an industrial and computer engineering student at Galatasaray University. At the same time i am mentor at Google DSC Galatasaray. Interested in Python, Machine Learning, Web Development and GUI.
+AI researcher passionate about LLMs, ML and data analytics, eager to contribute to innovative solutions while continuously expanding knowledge in the field
